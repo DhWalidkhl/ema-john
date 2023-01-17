@@ -1,0 +1,15 @@
+
+
+.cart-details-text{
+    text-align: start;
+    padding: 0 20px;
+}
+
+.cart-details-text h3{
+    color: green;
+}
+.cart-container{
+    background: #f6d0c9;
+    position: sticky;
+    top: 75px;
+}
